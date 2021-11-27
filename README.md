@@ -24,6 +24,6 @@ I uploaded my learning notes, presentation slides and my program report for the 
 
 My model is based on the idea from the following source: 
 
-/*Learning the molecular grammar of protein condensates from sequence determinants and embeddings
+*Learning the molecular grammar of protein condensates from sequence determinants and embeddings
 Kadi L. Saar, Alexey S. Morgunov, Runzhang Qi, William E. Arter, Georg Krainer, Alpha A. Lee, Tuomas P. J. Knowles
-Proceedings of the National Academy of Sciences Apr 2021, 118 (15) e2019053118; DOI: 10.1073/pnas.201905311*/
+Proceedings of the National Academy of Sciences Apr 2021, 118 (15) e2019053118; DOI: 10.1073/pnas.201905311*
