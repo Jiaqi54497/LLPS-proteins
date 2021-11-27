@@ -22,7 +22,7 @@ I uploaded my learning notes, presentation slides and my program report for the 
 
 * Machine Learning Prediction Model
 
-My model is based on the idea from: 
+My model is based on the idea from the following source: 
 
 Learning the molecular grammar of protein condensates from sequence determinants and embeddings
 Kadi L. Saar, Alexey S. Morgunov, Runzhang Qi, William E. Arter, Georg Krainer, Alpha A. Lee, Tuomas P. J. Knowles
